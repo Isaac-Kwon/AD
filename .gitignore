@@ -1,0 +1,6 @@
+build
+alpide-daq-software
+data
+*.py
+.vscode
+
